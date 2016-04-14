@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wpierscionek/Constructors/issues"
   },
-  "homepage": "https://github.com/wpierscionek/Constructors#readme"
+  "homepage": "https://github.com/wpierscionek/Constructors#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
 }
