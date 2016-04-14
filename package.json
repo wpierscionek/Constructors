@@ -1,0 +1,19 @@
+{
+  "name": "constructors",
+  "version": "1.0.0",
+  "description": "constructors",
+  "main": "student.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wpierscionek/Constructors.git"
+  },
+  "author": "wp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wpierscionek/Constructors/issues"
+  },
+  "homepage": "https://github.com/wpierscionek/Constructors#readme"
+}
