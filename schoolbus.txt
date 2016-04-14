@@ -1,0 +1,1 @@
+[{"name":"Tom","gender":"male","grade":"10","GPA":"2.3","detentions":"none","sleepingInClass":"no","catchPhrase":"I love it"}][{"name":"Alex","gender":"Male","grade":"10","GPA":"2","detentions":"3","sleepingInClass":"yes","catchPhrase":"Hate 10th grade"}]

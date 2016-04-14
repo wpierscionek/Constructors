@@ -13,5 +13,5 @@ function Student(name, gender, grade, GPA, detentions, sleepingInClass, catchPhr
         } else { console.log(this.name + "Sorry you can't have fun!") }
     };
 
-};
+}
 module.exports = Student;
